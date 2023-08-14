@@ -1,4 +1,4 @@
-# 💫 About Me:                                            [![](https://visitcount.itsvg.in/api?id=mouhamedanflosse&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:                                           
 I am a FrontEnd developer , i build websites and web applications, I am specialize in JavaScript, ReactJS css and HTML.<br>i'm focusing on my skills to develop functional and appealing web-based applications with great user experience, speed, and efficiency
 
 
@@ -12,5 +12,6 @@ I am a FrontEnd developer , i build websites and web applications, I am speciali
 ![](https://github-readme-stats.vercel.app/api?username=mouhamedanflosse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mouhamedanflosse&theme=dark&hide_border=false)
 
-
+---
+ [![](https://visitcount.itsvg.in/api?id=mouhamedanflosse&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
