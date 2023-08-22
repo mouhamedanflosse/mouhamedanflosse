@@ -11,5 +11,5 @@ I am a FrontEnd developer , i build websites and web applications. I am speciali
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mouhamedanflosse&theme=dark&hide_border=false)
 
 ---
- [![](https://visitcount.itsvg.in/api?id=mouhamedanflosse&icon=0&color=blue)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=mouhamedanflosse&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
