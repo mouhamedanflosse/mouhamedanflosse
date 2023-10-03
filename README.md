@@ -1,5 +1,6 @@
 # 💫 About Me:                                           
-I am a FrontEnd developer , i build websites and web applications. I am specialize in JavaScript, ReactJS css and HTML. i'm focusing on my skills to develop functional and appealing web-based applications with great user experience, speed, and efficiency
+I am a FrontEnd developer , i build websites and web applications. I am specialize in JavaScript, ReactJS css,tailwind and HTML.I also have some expertise in Node.js and Express.js, which I have used to build server-side applications and implement RESTful APIs
+i'm focusing on my skills to develop functional and appealing web-based applications with great user experience, speed, and efficiency.
 
 
 ## 🌐 Socials:
